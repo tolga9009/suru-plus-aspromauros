@@ -1,16 +1,7 @@
-Suru++ Asprómauros
-URL: https://github.com/suru-plus/SURU-PLUS-DARK
+# Contributing
 
-The FreeDesktop Suru icon set is designed and developed by:
+The instructions and deisgn guidelines were moved to [Suru++ Site – Design Guidelines](https://suru-plus.github.io/suru-plus-site/guidelines.html).
 
-- Sam Hewitt <sam@snwh.org>
+## Toolkit
 
-The original Suru icon set and concept was created by:
-
-- Matthieu James
-- Canonical Design Team
-
-Core developers (in order of appearance):
-
-- Andrea Bonanni (original author) <bonandry@gmail.com>
-- Suru++ Project
+You can find the files and palettes in the folder "templates". 
