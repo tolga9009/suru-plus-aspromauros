@@ -4,4 +4,4 @@ The instructions and deisgn guidelines were moved to [Suru++ Site – Design Gui
 
 ## Toolkit
 
-You can find the files and palettes in the folder "templates". 
+You can find the files and palettes in the folder "templates" of [Suru++ 25](https://github.com/suru-plus/suru-plus). 
